@@ -30,11 +30,11 @@ let once = true; // This boolean will be used to prevent that the victory sound 
                  //  the player reaches the end, and to avoid the death counter to keep going at the end.
 let deaths = 0;
 
-var musicConfig = { 
+const musicConfig = { 
     volume: 0.3,
     loop: true
 }
-var soundConfig = {
+const soundConfig = {
     volume:0.3,
     loop: false,       
 }
