@@ -1,1 +1,1 @@
-A Flappy Bird type of game, you must reach to the end to win and trie to die as less as possible!
+It's Flappy Bird type of game, you must reach the end to win and try to die as little as possible!
